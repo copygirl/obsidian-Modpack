@@ -1,0 +1,26 @@
+*
+!*/
+!/.gitignore
+!/modpack.json
+!/README.txt
+!/CREDITS.txt
+!/Changelog.txt
+!/smart_moving_options.txt
+
+!/scripts/*
+!/resourcepacks/*
+
+!/config/*
+!/config/biomesoplenty/*
+!/config/biomesoplenty/structures/*
+!/config/GanyMods/*
+!/config/roguelike_dungeons/*
+!/config/SpiceOfLife/*
+
+/config/splash.properties
+
+# Ignore optional mod config files
+/config/fastcraft.ini
+/config/InvTweaks*
+/config/MouseTweaks.cfg
+/config/MumbleLink.cfg

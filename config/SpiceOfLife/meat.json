@@ -1,0 +1,26 @@
+{
+  "food": {
+    "oredict": [],
+    "items": [
+      "minecraft:porkchop",
+      "minecraft:cooked_porkchop",
+      "minecraft:beef",
+      "minecraft:cooked_beef",
+      "minecraft:chicken",
+      "minecraft:cooked_chicken",
+      
+      "Thaumcraft:ItemNuggetChicken",
+      "Thaumcraft:ItemNuggetBeef",
+      "Thaumcraft:ItemNuggetPork",
+      "Thaumcraft:TripleMeatTreat",
+      
+      "Steamcraft:steamedPorkchop",
+      "Steamcraft:steamedBeef",
+      "Steamcraft:steamedChicken",
+      
+      "ganyssurface:mutton_raw",
+      "ganyssurface:mutton_cooked"
+    ]
+  },
+  "name": "Meat"
+}

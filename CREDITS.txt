@@ -1,0 +1,93 @@
+
+Created and maintained by copygirl.
+http://copy.mcft.net/mc/obsidian-modpack/
+http://twitch.tv/copygirl
+
+
+       Minecraft          http://minecraft.net/
+  Mod Coder Pack (MCP)    http://modcoderpack.com/
+ Minecraft Forge (Forge)  http://minecraftforge.net/
+                          https://github.com/MinecraftForge/MinecraftForge
+Forge Mod Loader (FML)    https://github.com/MinecraftForge/FML
+
+
+Hetter Foliage  http://minecraft.curseforge.com/mc-mods/minecraft/228529-better-foliage
+                https://github.com/octarine-noise/BetterFoliage
+
+BiblioCraft  http://bibliocraftmod.com/
+             https://github.com/Nuchaz/BiblioCraft
+        <3 http://patreon.com/nuchaz
+
+Biomes O' Plenty (BOP)  http://minecraft.curseforge.com/mc-mods/220318-biomes-o-plenty
+                        http://minecraftforum.net/forums/x/1286162
+                        https://github.com/Glitchfiend/BiomesOPlenty
+                   <3 http://patreon.com/Adubbz
+                   <3 http://patreon.com/forstride
+
+FastCraft  http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
+
+Flaxbeard's Steam Power  http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power
+                         http://minecraftforum.net/forums/x/2246930
+                         https://github.com/Flaxbeard/Flaxbeards-Steam-Power
+
+Gany's Surface  http://minecraft.curseforge.com/mc-mods/222303-ganys-surface
+                http://minecraftforum.net/forums/x/1291094
+                https://github.com/ganymedes01/Gany-s-Surface
+           <3 http://patreon.com/ganymedes01
+
+Hopper Ducts  http://fybertech.net/minecraft/
+              http://minecraft.curseforge.com/mc-mods/72210-hopper-ducts
+              http://minecraftforum.net/forums/x/1291075
+         <3 https://patreon.com/fyberoptic
+
+Inventory Tweaks  https://inventory-tweaks.readthedocs.org/
+                  http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks
+                  http://www.minecraftforum.net/forums/x/1288184
+                  https://github.com/Kobata/inventory-tweaks
+
+MineTweaker 3 (MT)  http://minetweaker3.powerofbytes.com/
+                    http://minecraft.curseforge.com/mc-mods/224029-minetweaker3
+                    http://minecraftforum.net/forums/x/1290366
+
+Mouse Tweaks  http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks
+              http://www.minecraftforum.net/forums/x/1286379
+
+MumbleLink  http://minecraft.curseforge.com/mc-mods/222432-mumblelink
+            http://minecraftforum.net/forums/x/1272675
+
+   NotEnoughItems (NEI)  http://chickenbones.net/
+>  CodeChickenLib (CCL)  http://minecraftforum.net/forums/x/1279956
+> CodeChickenCore (CCC)  https://github.com/Chicken-Bones
+                    <3 http://patreon.com/cb
+
+   Smart Moving  http://minecraftforum.net/forums/x/1274224
+      PlayerAPI  http://minecraftforum.net/forums/x/1277996
+PlayerRenderAPI  http://minecraftforum.net/forums/x/1283669
+
+Roguelike Dungeons  http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons
+                    http://minecraftforum.net/forums/x/1290238
+                 > https://github.com/Greymerk
+
+SpecialMobs  http://minecraft.curseforge.com/mc-mods/special-mobs
+             http://minecraftforum.net/forums/x/1282771#SpecialMobs
+        <3 http://patreon.com/FatherToast
+
+SpiceOfLife  http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life
+             http://minecraftforum.net/forums/x/2091809
+> AppleCore  http://minecraft.curseforge.com/mc-mods/224472-applecore
+             http://minecraftforum.net/forums/x/2222837
+         > https://github.com/squeek502
+        <3 http://patreon.com/squeek502
+
+Thaumcraft (TC)  http://minecraft.curseforge.com/mc-mods/223628-thaumcraft
+                 http://minecraftforum.net/forums/x/1292130
+>  Baubles       http://www.curse.com/mc-mods/minecraft/227083-baubles
+                 http://minecraftforum.net/forums/x/1294623
+             > https://github.com/Azanor
+            <3 http://patreon.com/azanor
+
+          BetterStorage (BS)  http://minecraftforum.net/forums/x/1442380
+Advanced Health Options (AHO)
+   copycore, PocketBags   > https://github.com/copygirl
+  copy's Vanilla Tweaks  <3 http://copy.mcft.net/donate/?ref=mods
+

@@ -1,0 +1,16 @@
+{
+  "food": {
+    "oredict": [],
+    "items": [
+      "minecraft:carrot",
+      "minecraft:golden_carrot",
+      "minecraft:potato",
+      "minecraft:baked_potato",
+      
+      "BiomesOPlenty:food:2", // Wild Carrots
+      "BiomesOPlenty:food:5", // Veggie Salad
+      "BiomesOPlenty:food:11" // Turnip
+    ]
+  },
+  "name": "Veggie Stuff"
+}

@@ -1,0 +1,17 @@
+{
+  "food": {
+    "oredict": [],
+    "items": [
+      "minecraft:apple",
+      "minecraft:golden_apple:0",
+      "minecraft:melon",
+      
+      "BiomesOPlenty:food:0", // Berry
+      "BiomesOPlenty:food:3", // Peach
+      "BiomesOPlenty:food:4", // Fruit Salad
+      "BiomesOPlenty:food:8", // Persimmon
+      "BiomesOPlenty:food:12" // Pear
+    ]
+  },
+  "name": "Fruit"
+}

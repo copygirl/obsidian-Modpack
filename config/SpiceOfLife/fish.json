@@ -1,0 +1,12 @@
+{
+  "food": {
+    "oredict": [],
+    "items": [
+      "minecraft:fish",
+      "minecraft:cooked_fished",
+      "Thaumcraft:ItemNuggetFish",
+      "Steamcraft:steamedFish"
+    ]
+  },
+  "name": "Fish"
+}

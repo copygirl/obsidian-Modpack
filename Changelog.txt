@@ -1,0 +1,43 @@
+Version 1.2.0
+- Updated to work with Pack[OP]dater
+- Added BiblioWoods for Biomes 'O Plenty (1.9)
+- Removed Smart Core + Smart Render (included in Smart Moving)
+- Updated mods:
+  - AppleCore (1.0.2 -> 1.1.0)
+  - BetterStorage (0.13.0.125 -> 0.13.1.126)
+  - BiblioCraft (0.10.2 -> 1.10.4)
+  - Biomes 'O Plenty (2.1.0.1164 -> 2.1.0.1338)
+  - CodeChickenCore (1.0.4.29 -> 1.0.6.43)
+  - Gany's Surface (1.10.0 -> 1.11.1)
+  - Not Enough Items (1.0.3.74 -> 1.0.4.107)
+  - Player API (1.2 -> 1.3)
+  - Render Player API (1.3 -> 1.4)
+  - Smart Moving (15.3 -> 15.5)
+  - Special Mobs (3.0.3 -> 3.1.1)
+- Added optional mods:
+  - MumbleLink (was included by default)
+  - FastCraft (1.21)
+  - Inventory Tweaks (1.59)
+  - Mouse Tweaks (2.4.4)
+
+Version 1.1.0
+- Disabled mother spider (too much health + regeneration, not fun)
+- Changed hopper recipe to use 3x iron, 2x iron plates, 1x brass turbine, 1x crate
+- Changed planks + axe recipe to yield 4 sticks instead of 6
+- Allowed the following items to stack: Doors 4x, Potions 3x
+- Flaxbeard's Steam Power
+  - This has a config file?! Disabled items instead of using MineTweaker
+  - Steam tools:
+    - Removed unbreaking enchantment, increased durability instead
+    - Increase XP cost from 16 & 12 to 32 & 24
+- Smart Moving:
+  - Very low food will still regenerate exhaustion
+  - Sprinting should use less exhaustion
+  - Sprint-jumping should use more exhaustion
+- Roguelike Dungeons:
+  - Decrease spawn frequency (shouldn't be that easy to find)
+  - Disable generous loot (no anvils, enchanting tables, brewing stands, ...)
+  - Slightly less rooms per dungeon and some other changes
+
+Version 1.0.0
+- Initial release

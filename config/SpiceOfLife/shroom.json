@@ -1,0 +1,12 @@
+{
+  "food": {
+    "oredict": [],
+    "items": [
+      "minecraft:mushroom_stew",
+      
+      "BiomesOPlenty:food:1", // Shroom Powder
+      "BiomesOPlenty:food:6"  // Shroom Salad
+    ]
+  },
+  "name": "Shrooms"
+}

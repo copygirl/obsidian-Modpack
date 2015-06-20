@@ -1,0 +1,116 @@
+{
+  "name": "obsidian Modpack",
+  "version": "1.2.0",
+  "authors": [ "copygirl" ],
+  "mods": [
+    {
+      "name": "Advanced Health Options", "version": "1.5.11",
+      "url": "https://github.com/copygirl/AdvHealthOptions/releases/download/v1.5.1.11/AdvHealthOptions-1.7.10-1.5.1.11.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BetterStorage", "version": "0.13.1.126",
+      "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
+      "server": true, "client": true, "optional": false
+    },, {
+      "name": "BiblioCraft", "version": "1.10.4",
+      "url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2235545/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BiblioWoods (Biomes O' Plenty)", "version": "1.9",
+      "url": "http://minecraft.curseforge.com/mc-mods/228362-bibliocraft-bibliowoods-biomes-oplenty-edition/files/2229577/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Biomes O' Plenty", "version": "2.1.0.1338",
+      "url": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/1.7.10-2.1.0.1338/BiomesOPlenty-1.7.10-2.1.0.1338-universal.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "CodeChickenCore", "version": "1.0.6.43",
+      "url": "http://minecraft.curseforge.com/mc-mods/222213-codechickencore/files/2237939/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "copycore", "version": "1.6.1.9",
+      "url": "https://github.com/copygirl/copycore/releases/download/v1.6.1.9/copycore-1.7.10-1.6.1.9.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "copy's Vanilla Tweaks", "version": "1.5.0.6",
+      "url": "https://github.com/copygirl/copyVanillaTweaks/releases/download/v1.5.0.6/copyVanillaTweaks-1.7.10-1.5.0.6.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "FastCraft", "version": "1.21",
+      "url": "http://files.player.to/fastcraft-1.21.jar",
+      "server": true, "client": true, "optional": true
+    }, {
+      "name": "Flaxbeard's Steam Power", "version": "0.28.7",
+      "url": "http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power/files/2231671/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Gany's Surface", "version": "1.11.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files/2239989/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Hopper Ducts", "version": "1.3.2",
+      "url": "http://minecraft.curseforge.com/mc-mods/72210-hopper-ducts/files/2211247/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Inventory Tweaks", "version": "1.59",
+      "url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2232022/download",
+      "server": false, "client": true, "optional": true
+    }, {
+      "name": "MineTweaker 3", "version": "3.0.9C",
+      "url": "http://minetweaker3.powerofbytes.com/download/MineTweaker3-1.7.10-3.0.9C.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Mouse Tweaks", "version": "2.4.4",
+      "url": "http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks/files/2209265/download",
+      "server": false, "client": true, "optional": true
+    }, {
+      "name": "MumbleLink", "version": "4.1.1-2b3035b",
+      "url": "http://minecraft.curseforge.com/mc-mods/222432-mumblelink/files/2208617/download",
+      "server": false, "client": true, "optional": true
+    }, {
+      "name": "Not Enough Items", "version": "1.0.4.107",
+      "url": "http://minecraft.curseforge.com/mc-mods/222211-notenoughitems/files/2237940/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Player API", "version": "1.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/228969-player-api/files/2235368/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Pocket Bags", "version": "1.1.1.4",
+      "url": "https://github.com/copygirl/PocketBags/releases/download/v1.1.1.4/PocketBags-1.7.10-1.1.1.4.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Render Player API", "version": "1.4",
+      "url": "http://minecraft.curseforge.com/mc-mods/228981-render-player-api/files/2231725/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Roguelike Dungeons", "version": "1.3.6.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons/files/2230658/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Smart Moving", "version": "15.5",
+      "url": "http://minecraft.curseforge.com/mc-mods/229858-smart-moving/files/2236485/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Special Mobs", "version": "3.1.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2233901/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Spice of Life", "version": "1.2.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life/files/2223224/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thaumcraft", "version": "4.2.3.5",
+      "url": "http://minecraft.curseforge.com/mc-mods/223628-thaumcraft/files/2227552/download",
+      "server": true, "client": true, "optional": false
+    }
+  ]
+}
