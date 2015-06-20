@@ -12,10 +12,6 @@
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
-      "server": true, "client": true, "optional": false
-    }, {
       "name": "BetterStorage", "version": "0.13.1.126",
       "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
       "server": true, "client": true, "optional": false
