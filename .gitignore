@@ -17,7 +17,10 @@
 !/config/roguelike_dungeons/*
 !/config/SpiceOfLife/*
 
+# Changes timestamp every startup
 /config/splash.properties
+# Is recreated automatically
+/config/SpiceOfLife/example-food-group.json
 
 # Ignore optional mod config files
 /config/fastcraft.ini
