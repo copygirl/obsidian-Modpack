@@ -19,6 +19,8 @@ Version 1.2.0
   - FastCraft (1.21)
   - Inventory Tweaks (1.59)
   - Mouse Tweaks (2.4.4)
+- Config changes:
+  - Disabled Origin Valley and Xeric Shrubland biomes
 
 Version 1.1.0
 - Disabled mother spider (too much health + regeneration, not fun)
