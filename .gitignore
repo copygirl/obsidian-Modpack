@@ -17,6 +17,11 @@
 !/config/roguelike_dungeons/*
 !/config/SpiceOfLife/*
 
+# CoFH mods
+!/config/cofh/*
+!/config/cofh/core/*
+!/config/cofh/world/*
+
 # Changes timestamp every startup
 /config/splash.properties
 # Is recreated automatically

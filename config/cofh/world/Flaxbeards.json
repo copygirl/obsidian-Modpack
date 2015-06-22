@@ -1,0 +1,60 @@
+{
+  "copper": {
+    "template": "uniform",
+    "block": { "name": "Steamcraft:steamcraftOre", "metadata": 0 },
+    "material": "stone",
+    "clusterSize": 14,
+    "numClusters": 4,
+    "minHeight": 36,
+    "maxHeight": 88,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "zinc": {
+    "template": "normal",
+    "block": { "name": "Steamcraft:steamcraftOre", "metadata": 1 },
+    "material": "stone",
+    "clusterSize": 12,
+    "numClusters": 1,
+    "meanHeight": 38,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "copper_cluster": {
+    "template": "uniform",
+    "block": { "name": "Steamcraft:steamcraftOre", "metadata": 0 },
+    "material": "stone",
+    "clusterSize": 30,
+    "numClusters": 1,
+    "chunkChance": 12,
+    "minHeight": 36,
+    "maxHeight": 88,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "zinc_cluster": {
+    "template": "normal",
+    "block": { "name": "Steamcraft:steamcraftOre", "metadata": 1 },
+    "material": "stone",
+    "clusterSize": 26,
+    "numClusters": 1,
+    "chunkChance": 14,
+    "meanHeight": 38,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  }
+}

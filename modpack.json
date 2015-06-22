@@ -1,6 +1,6 @@
 {
   "name": "obsidian Modpack",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "authors": [ "copygirl" ],
   "mods": [
     {
@@ -30,6 +30,10 @@
     }, {
       "name": "CodeChickenCore", "version": "1.0.6.43",
       "url": "http://minecraft.curseforge.com/mc-mods/222213-codechickencore/files/2237939/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "CoFH Core", "version": "3.0.2-262",
+      "url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2234198/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "copycore", "version": "1.6.1.9",

@@ -1,0 +1,56 @@
+{
+  "air_earth_cluster": {
+    "template": "normal",
+    "block": [
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 1, "weight": 50 },
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 4, "weight": 50 }
+    ],
+    "material": "stone",
+    "clusterSize": 16,
+    "numClusters": 1,
+    "chunkChance": 20,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [ { "type": "dictionary", "entry": "MAGICAL" } ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "fire_water_cluster": {
+    "template": "normal",
+    "block": [
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 2, "weight": 50 },
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 3, "weight": 50 }
+    ],
+    "material": "stone",
+    "clusterSize": 16,
+    "numClusters": 1,
+    "chunkChance": 20,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [ { "type": "dictionary", "entry": "MAGICAL" } ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "order_entropy_cluster": {
+    "template": "normal",
+    "block": [
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 5, "weight": 50 },
+      { "name": "Thaumcraft:blockCustomOre", "metadata": 6, "weight": 50 }
+    ],
+    "material": "stone",
+    "clusterSize": 16,
+    "numClusters": 1,
+    "chunkChance": 20,
+    "meanHeight": 32,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [ { "type": "dictionary", "entry": "MAGICAL" } ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  }
+}

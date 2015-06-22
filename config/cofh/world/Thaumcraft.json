@@ -1,0 +1,146 @@
+{
+  "cinnabar": {
+    "template": "uniform",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 0 },
+    "material": "stone",
+    "clusterSize": 4,
+    "numClusters": 3,
+    "minHeight": 6,
+    "maxHeight": 40,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "amber": {
+    "template": "uniform",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 7 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 4,
+    "minHeight": 48,
+    "maxHeight": 96,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [  ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "air": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 1 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 1,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "PLAINS" },
+      { "type": "dictionary", "entry": "HILLS" },
+      { "type": "dictionary", "entry": "SPARSE" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "fire": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 2 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 2,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "HOT" },
+      { "type": "dictionary", "entry": "SANDY" },
+      { "type": "dictionary", "entry": "SAVANNA" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "water": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 3 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 1,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "WATER" },
+      { "type": "dictionary", "entry": "WET" },
+      { "type": "dictionary", "entry": "SWAMP" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "earth": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 4 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 1,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "FOREST" },
+      { "type": "dictionary", "entry": "DENSE" },
+      { "type": "dictionary", "entry": "LUSH" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "order": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 5 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 2,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "COLD" },
+      { "type": "dictionary", "entry": "SNOWY" },
+      { "type": "dictionary", "entry": "CONIFEROUS" },
+      { "type": "dictionary", "entry": "MESA" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "entropy": {
+    "template": "normal",
+    "block": { "name": "Thaumcraft:blockCustomOre", "metadata": 6 },
+    "material": "stone",
+    "clusterSize": 5,
+    "numClusters": 2,
+    "meanHeight": 24,
+    "maxVariance": 16,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "MAGICAL" },
+      { "type": "dictionary", "entry": "DEAD" },
+      { "type": "dictionary", "entry": "SPOOKY" },
+      { "type": "dictionary", "entry": "SPARSE" },
+      { "type": "dictionary", "entry": "WASTELAND" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  }
+}

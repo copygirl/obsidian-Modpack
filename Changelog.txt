@@ -1,6 +1,7 @@
-Version 1.2.0
+Version 2.0.0
 - Updated to work with Pack[OP]dater
 - Added BiblioWoods for Biomes 'O Plenty (1.9)
+- Added CoFH Core (3.0.2-262)
 - Removed Smart Core + Smart Render (included in Smart Moving)
 - Updated mods:
   - AppleCore (1.0.2 -> 1.1.0)
@@ -21,6 +22,20 @@ Version 1.2.0
   - Mouse Tweaks (2.4.4)
 - Config changes:
   - Disabled Origin Valley and Xeric Shrubland biomes
+  - Disabled Vanilla and mod ore generation
+  - CoFH Core:
+    - Trees grow about twice as slowly
+    - Ores spawn less frequently, but in bigger chunks
+    - Specific Thaumcraft shards only spawn in specific biomes
+      - Air: Plains, hills, sparse biomes
+      - Fire: Hot, sandy, savanna biomes
+      - Water: Water, wet, swamp biomes
+      - Earth: Forest, dense, lush biomes
+      - Order: Cold, snowy, coniferous, mesa biomes
+      - Entropy: Dead, spooky, sparse, wasteland biomes
+    - Ores rarely spawn in large clusters
+      - Diamond clusters containing emeralds spawn in mountain and hilly biomes
+      - Thaumcraft shard clusters spawn in magical biomes
 
 Version 1.1.0
 - Disabled mother spider (too much health + regeneration, not fun)
