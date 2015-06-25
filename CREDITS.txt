@@ -24,6 +24,11 @@ Biomes O' Plenty (BOP)  http://minecraft.curseforge.com/mc-mods/220318-biomes-o-
                    <3 http://patreon.com/Adubbz
                    <3 http://patreon.com/forstride
 
+CoFH Core  http://teamcofh.com/
+           http://minecraft.curseforge.com/mc-mods/69162-cofhcore
+           https://github.com/CoFH/CoFHCore
+      <3 https://www.patreon.com/TeamCoFH
+
 FastCraft  http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
 
 Flaxbeard's Steam Power  http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power
