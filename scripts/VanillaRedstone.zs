@@ -94,3 +94,10 @@ recipes.addShaped(piston,
     [[ planks,      planks, planks ],
      [  stone,   ironPlate,  stone ],
      [  stone, brassPiston,  stone ]]);
+
+// Sticky Piston = Piston + Slimeball
+var stickyPiston = <minecraft:sticky_piston>;
+var slimeball = <minecraft:slime_ball>;
+mods.betterstorage.CraftingStation.addShaped(
+    [ null, slimeball, null, null, piston ],
+    [[ stickyPiston ]]);
