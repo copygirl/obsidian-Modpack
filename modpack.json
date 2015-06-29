@@ -88,17 +88,21 @@
       "url": "https://github.com/copygirl/PocketBags/releases/download/v1.1.1.4/PocketBags-1.7.10-1.1.1.4.jar",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "Render Player API", "version": "1.4",
-      "url": "http://minecraft.curseforge.com/mc-mods/228981-render-player-api/files/2231725/download",
+      "name": "Render Player API", "version": "1.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/228981-render-player-api/files/2231724/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "Roguelike Dungeons", "version": "1.3.6.3",
       "url": "http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons/files/2230658/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "Smart Moving", "version": "15.5",
+      "name": "SmartMoving", "version": "15.5",
       "url": "http://minecraft.curseforge.com/mc-mods/229858-smart-moving/files/2236485/download",
       "server": true, "client": true, "optional": false
+    }, {
+      "name": "Smart Render", "version": "2.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/229857-smart-render/files/2235382/download",
+      "server": false, "client": true, "optional": false
     }, {
       "name": "Special Mobs", "version": "3.1.1",
       "url": "http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2233901/download",

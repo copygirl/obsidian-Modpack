@@ -859,7 +859,7 @@ move.exhaustion.loss.factor:0.75
 # Smart sprinting exhaustion loss factor (>= 0)
 move.exhaustion.sprint.loss.factor:0.5
 
-# Standard sprinting exhaustion loss factor while  (>= 0, >= "move.exhaustion.sprint.loss.factor")
+# Standard sprinting exhaustion loss factor while (>= 0, >= "move.exhaustion.sprint.loss.factor")
 move.exhaustion.run.loss.factor:0.5
 
 # Walking exhaustion loss factor (>= 0, >= "move.exhaustion.run.loss.factor")
