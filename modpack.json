@@ -119,6 +119,10 @@
       "name": "Thaumcraft", "version": "4.2.3.5",
       "url": "http://minecraft.curseforge.com/mc-mods/223628-thaumcraft/files/2227552/download",
       "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thaumcraft Mob Aspects", "version": "2A",
+      "url": "http://minecraft.curseforge.com/mc-mods/221389-thaumcraft-mob-aspects/files/2204696/download",
+      "server": true, "client": true, "optional": false
     }
   ]
 }
