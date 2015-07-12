@@ -904,8 +904,7 @@ move.exhaustion.hunger:true
 move.exhaustion.hunger.factor:0.03
 
 # Until which food level exhaustion is continuously reduced
-#!!! Interpreted value "-1.0" was out of range, used minimum value "0.0" instead !!!#
-move.exhaustion.food.minimum:-1
+move.exhaustion.food.minimum:0
 
 
 
@@ -927,13 +926,13 @@ move.hunger.gain.factor:0.75
 move.hunger.sprint.gain.factor:1
 
 # Standard sprinting hunger generation factor (>= 0)
-move.hunger.run.gain.factor:10
+move.hunger.run.gain.factor:5
 
 # Standard speed movement hunger generation factor (>= 0)
 move.hunger.walk.gain.factor:1
 
 # Sneaking hunger generation factor (>= 0)
-move.hunger.sneak.gain.factor:1
+move.hunger.sneak.gain.factor:0.5
 
 # Sneaking hunger generation factor (>= 0)
 move.hunger.stand.gain.factor:0
@@ -962,7 +961,7 @@ move.hunger.normal.gain.factor:1
 
 
 # Basic hunger per tick (>= 0)
-move.hunger.always.gain:0.002
+move.hunger.always.gain:0.001
 
 
 
