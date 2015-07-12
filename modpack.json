@@ -12,6 +12,10 @@
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
     }, {
+      "name": "BetterFoliage", "version": "1.0.13",
+      "url": "http://minecraft.curseforge.com/mc-mods/228529-better-foliage/files/2239969/download",
+      "server": false, "client": true, "optional": true
+    }, {
       "name": "BetterStorage", "version": "0.13.1.126",
       "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
       "server": true, "client": true, "optional": false
