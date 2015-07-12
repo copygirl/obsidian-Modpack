@@ -139,3 +139,12 @@ mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:scytheAmethy
 
 mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:wadingBoots>,
     [[ <minecraft:leather_boots> ], [ <betterstorage:bucketSlime> ]], 4);
+
+var eyeOfEnder = <minecraft:ender_eye>;
+var ghastlySoul = <BiomesOPlenty:misc:10>;
+var enderporter = <BiomesOPlenty:enderporter>;
+recipes.remove(enderporter);
+mods.betterstorage.CraftingStation.addShaped(enderporter.withTag({ench:[]}),
+    [[  eyeOfEnder, ghastlySoul,  eyeOfEnder ],
+     [ ghastlySoul,    amethyst, ghastlySoul ],
+     [  eyeOfEnder, ghastlySoul,  eyeOfEnder ]], 16);
