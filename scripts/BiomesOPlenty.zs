@@ -12,7 +12,10 @@ var diamond   = <minecraft:diamond>;
 
 // Amethyst
 
-mods.betterstorage.CraftingStation.addShapeless(amethyst,
+recipes.remove(amethyst);
+recipes.addShapeless(amethyst.withTag({ench:[]}) * 9, [ <BiomesOPlenty:gemOre:1> ]);
+
+mods.betterstorage.CraftingStation.addShapeless(amethyst.withTag({ench:[]}),
   [ ruby, peridot, topaz, tanzanite, malachite, sapphire, amber, diamond ], 6);
 
 
@@ -30,20 +33,20 @@ recipes.remove(<BiomesOPlenty:shovelAmethyst>);
 recipes.remove(<BiomesOPlenty:axeAmethyst>);
 recipes.remove(<BiomesOPlenty:hoeAmethyst>);
 
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:swordAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:swordAmethyst>.withTag({ench:[]}),
     [[     amethyst ],
      [     amethyst ],
      [ diamondSword ]], 12);
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:pickaxeAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:pickaxeAmethyst>.withTag({ench:[]}),
     [[ amethyst,       amethyst, amethyst ],
      [     null, diamondPickaxe,     null ]], 18);
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:shovelAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:shovelAmethyst>.withTag({ench:[]}),
     [[      amethyst ],
      [ diamondShovel ]], 9);
-mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:axeAmethyst>,
+mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:axeAmethyst>.withTag({ench:[]}),
     [[ amethyst,      amethyst ],
      [ amethyst, diamondShovel ]], 9);
-mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:hoeAmethyst>,
+mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:hoeAmethyst>.withTag({ench:[]}),
     [[ amethyst,   amethyst ],
      [     null, diamondHoe ]], 6);
 
@@ -60,18 +63,18 @@ recipes.remove(<BiomesOPlenty:chestplateAmethyst>);
 recipes.remove(<BiomesOPlenty:leggingsAmethyst>);
 recipes.remove(<BiomesOPlenty:bootsAmethyst>);
 
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:helmetAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:helmetAmethyst>.withTag({ench:[]}),
     [[ amethyst,      amethyst, amethyst ],
      [ amethyst, diamondHelmet, amethyst ]], 12);
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:chestplateAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:chestplateAmethyst>.withTag({ench:[]}),
     [[ amethyst, diamondChest, amethyst ],
      [ amethyst,     amethyst, amethyst ],
      [ amethyst,     amethyst, amethyst ]], 24);
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:leggingsAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:leggingsAmethyst>.withTag({ench:[]}),
     [[ amethyst,    amethyst, amethyst ],
      [ amethyst, diamondLegs, amethyst ],
      [ amethyst,        null, amethyst ]], 18);
-mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:bootsAmethyst>,
+mods.betterstorage.CraftingStation.addShaped(<BiomesOPlenty:bootsAmethyst>.withTag({ench:[]}),
     [[ amethyst, diamondBoots, amethyst ],
      [ amethyst,         null, amethyst ]], 12);
 
@@ -130,7 +133,7 @@ recipes.addShapedMirrored(<BiomesOPlenty:scytheMud>,
      [  mud,  null, stick ],
      [ null, stick,  null ]]);
 
-mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:scytheAmethyst>,
+mods.betterstorage.CraftingStation.addShapedMirrored(<BiomesOPlenty:scytheAmethyst>.withTag({ench:[]}),
     [[     null, amethyst,      amethyst ],
      [ amethyst,     null, diamondScythe ]], 6);
 
