@@ -1,0 +1,124 @@
+{
+  "bop_ruby": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 2 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "HOT" },
+      { "type": "dictionary", "entry": "SANDY" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_peridot": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 4 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "PLAINS" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_topaz": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 6 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "JUNGLE" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_tanzanite": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 8 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "COLD" },
+      { "type": "dictionary", "entry": "SNOWY" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_malachite": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 10 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "FOREST" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_sapphire": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 12 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "SWAMP" },
+      { "type": "dictionary", "entry": "WET" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "bop_amber": {
+    "template": "normal",
+    "block": { "name": "BiomesOPlenty:gemOre", "metadata": 14 },
+    "material": "stone",
+    "clusterSize": 8,
+    "numClusters": 1,
+    "chunkChance": 3,
+    "meanHeight": 18,
+    "maxVariance": 10,
+    "retrogen": "true",
+    "biomeRestriction": "whitelist",
+    "biomes": [
+      { "type": "dictionary", "entry": "WATER" }
+    ],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  }
+}
