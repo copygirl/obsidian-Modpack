@@ -1,5 +1,19 @@
 // Ingredients
-var amethyst = <BiomesOPlenty:gems>;
+var amethyst  = <BiomesOPlenty:gems>;
+var ruby      = <BiomesOPlenty:gems:1>;
+var peridot   = <BiomesOPlenty:gems:2>;
+var topaz     = <BiomesOPlenty:gems:3>;
+var tanzanite = <BiomesOPlenty:gems:4>;
+var malachite = <BiomesOPlenty:gems:5>;
+var sapphire  = <BiomesOPlenty:gems:6>;
+var amber     = <BiomesOPlenty:gems:7>;
+var diamond   = <minecraft:diamond>;
+
+
+// Amethyst
+
+mods.betterstorage.CraftingStation.addShapeless(amethyst,
+  [ ruby, peridot, topaz, tanzanite, malachite, sapphire, amber, diamond ], 6);
 
 
 // Amethyst Tools
@@ -73,7 +87,6 @@ var flint  = <minecraft:flint>;
 var binder = <minecraft:string>;
 
 var gold    = <ore:ingotGold>;
-var diamond = <ore:gemDiamond>;
 var emerald = <ore:gemEmerald>;
 
 var ironPlate = <Steamcraft:steamcraftPlate:2>;
