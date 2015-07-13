@@ -6,7 +6,7 @@
 Forge Mod Loader (FML)    https://github.com/MinecraftForge/FML
 
 
-     Hetter Foliage     http://minecraft.curseforge.com/mc-mods/minecraft/228529-better-foliage
+     Better Foliage     http://minecraft.curseforge.com/mc-mods/228529-better-foliage
                         https://github.com/octarine-noise/BetterFoliage
 
       BiblioCraft       http://bibliocraftmod.com/
