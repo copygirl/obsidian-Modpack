@@ -1,7 +1,7 @@
 Version 2.0.0
 - Updated to work with Pack[OP]dater
 - Added mods:
-  - CoFH Core (3.0.2-262)
+  - CoFH Core (3.0.3B4)
   - Thaumcraft Mob Aspects (2A)
   - BiblioWoods for Biomes 'O Plenty (1.9)
 - Updated mods:
