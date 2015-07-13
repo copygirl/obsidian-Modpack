@@ -1,64 +1,30 @@
-={ obsidian Modpack ]=
 
-Former pack of the obsidian group server.
-Created and maintained by copygirl.
+  ={ obsidian Modpack ]=
+
 http://copy.mcft.net/mc/obsidian-modpack/
-http://twitch.tv/copygirl
+https://github.com/copygirl/obsidian-Modpack
+ Created and maintained by copygirl.
 
+See CREDITS.txt for a list of mods included in the pack.
+See Changelog.txt for changes made between versions.
 
-= Introduction =
 
 Warning! This modpack is inspired by Vanilla Minecraft and
 pretty difficult. It contains a silly amount of recipe changes
-to make progression more difficult and meaningful.
-Playing on HARDCORE is recommended for added FUN factor!
-Playing with FRIENDS is recommended if you have any...
+to make progression more difficult and meaningful. Hopefully,
+you can enjoy Minecraft a little bit longer this way!
 
-Flaxbeard's Steam Power and Thaumcraft are added as end-game
-content. Thaumcraft has not been tweaked much yet.
-
-
-Getting FastCraft is recommended:
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
-
-If your computer can handle it, you could grab Better Foliage:
-http://minecraft.curseforge.com/mc-mods/228529-better-foliage
+Check the "Getting Started" guide for some tips:
+https://github.com/copygirl/obsidian-Modpack/wiki/Getting-started
 
 
-= Flint =
-To get flint, which is required for stone tools, you have to use
-a shovel to break gravel. The lower the harvest level on the tool,
-the higher the chance for it to drop flint.
+The obsidian Modpack is highly experimental and will never be
+truly finished, but you're welcome to join the discussion and
+help developing the pack. We also have a somewhat official
+server for both playing and testing.
 
-= Crafting Station =
-Many recipes, most notably iron tools, armor and other things
-required for progressing, use BetterStorage's crafting station. To
-make it, you might be required to blow up gold and redstone ore if
-you can't find another way to get these resources.
-
-= Food =
-There's 6 different food groups in this pack: Meat, Fish, Fruit,
-Shrooms, Veggie Stuff and Bread'n'Stuff (which includes cookies, cake
-and pumpkin pie). After eating about two hunger bars worth of food
-from a single food group, that food's nutrition value will go down.
-For a healthy diet, I recommend having 3 to 4 food sources ready. I
-suppose you could also use rotten flesh to get the food out of your
-system, though it's up to your imagination how that works.
-
-= Animals =
-Breeding and growing up of animals takes 4 times longer than normal.
-It takes 1 day until you can breed them again, and baby animals take
-4 days to grow up. On the upside, you do get additional experience
-when doing this!
-* Chickens are an exception, they only take twice as long.
-* Pigs will spawn two baby piglets. How cute!
-
-= Planks & Sticks =
-Using axes together with logs / planks when crafting will result in
-more planks / sticks. You can also break down some items back into
-planks / sticks this way.
-
-= Slabs & Stairs =
-You can turn two slabs or a stair back into a full block. Also, the
-stair recipe gives 6 stairs instead of just 4.
+For some help on installing the pack manually, or using the
+Pack[OP]dater, which is necessary to play the latest and
+greatest in-development version of the pack, see here:
+https://github.com/copygirl/obsidian-Modpack/wiki/Installation
 
