@@ -1,8 +1,9 @@
 Version 2.0.0
 - Updated to work with Pack[OP]dater
-- Added BiblioWoods for Biomes 'O Plenty (1.9)
-- Added CoFH Core (3.0.2-262)
-- Removed Smart Core + Smart Render (included in Smart Moving)
+- Added mods:
+  - CoFH Core (3.0.2-262)
+  - Thaumcraft Mob Aspects (2A)
+  - BiblioWoods for Biomes 'O Plenty (1.9)
 - Updated mods:
   - AppleCore (1.0.2 -> 1.1.0)
   - BetterStorage (0.13.0.125 -> 0.13.1.126)
@@ -18,14 +19,24 @@ Version 2.0.0
 - Added optional mods:
   - MumbleLink (was included by default)
   - FastCraft (1.21)
+  - Better Foliage (1.0.13)
   - Inventory Tweaks (1.59)
   - Mouse Tweaks (2.4.4)
+- Removed Smart Core (included in Smart Moving)
 - Config changes:
+  - Disable BOP's "only spawn on beaches" option
+  - Decreased idle, sneak and sprint hunger loss
+  - Made some special mobs rarer (especially cave spider ones)
   - Disabled Origin Valley and Xeric Shrubland biomes
   - Disabled Vanilla and mod ore generation
   - CoFH Core:
     - Trees grow about twice as slowly
     - Ores spawn less frequently, but in bigger chunks
+    - Ores sometimes spawn in large clusters
+      - Diamond clusters containing emeralds spawn in mountain and hilly biomes
+      - Thaumcraft shard clusters spawn in magical biomes
+    - Huge ore deposites (for some ore types >500 ores) spawn
+      extremely rarely for coal, copper, zinc, iron and gold
     - Specific Thaumcraft shards only spawn in specific biomes
       - Air: Plains, hills, sparse biomes
       - Fire: Hot, sandy, savanna biomes
@@ -33,9 +44,21 @@ Version 2.0.0
       - Earth: Forest, dense, lush biomes
       - Order: Cold, snowy, coniferous, mesa biomes
       - Entropy: Dead, spooky, sparse, wasteland biomes
-    - Ores rarely spawn in large clusters
-      - Diamond clusters containing emeralds spawn in mountain and hilly biomes
-      - Thaumcraft shard clusters spawn in magical biomes
+    - Biomes O' Plenty gems only spawn in specific biomes
+      - Ruby: Hot, sandy biomes
+      - Peridot: Plains biomes
+      - Topaz: Jungle biomes
+      - Tanzanite: Cold, snowy biomes
+      - Malachite: Forest biomes
+      - Sapphire: Swamp, wet biomes
+      - Amber: Water, ocean, river biomes
+- Recipe changes:
+  - Lunchbag recipe now uses 6 paper
+  - Lunchbox recipe now uses 6 iron and 1 level
+  - Added reversal recipe for sticky piston
+  - Amethyst is now craftable, though resulting tools
+    and armor are not enchantable in enchantment table
+  - Enderporter recipe now requires 10 levels
 
 Version 1.1.0
 - Disabled mother spider (too much health + regeneration, not fun)
