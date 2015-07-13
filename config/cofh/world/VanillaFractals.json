@@ -1,0 +1,68 @@
+{
+  "coal_fractal": {
+    "template": {
+      "type": "fractal",
+      "generator": "cluster",
+      "sparse": false
+    },
+    "block": "coal_ore",
+    "material": "stone",
+    "clusterSize": 16,
+    "numClusters": 26,
+    "chunkChance": 240,
+    "minHeight": 40,
+    "veinHeight": 12,
+    "veinDiameter": 20,
+    "verticalDensity": 32,
+    "horizontalDensity": 24,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "iron_fractal": {
+    "template": {
+      "type": "fractal",
+      "generator": "cluster",
+      "sparse": false
+    },
+    "block": "iron_ore",
+    "material": "stone",
+    "clusterSize": 20,
+    "numClusters": 20,
+    "chunkChance": 480,
+    "minHeight": 16,
+    "veinHeight": 10,
+    "veinDiameter": 16,
+    "verticalDensity": 32,
+    "horizontalDensity": 24,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  },
+  "gold_fractal": {
+    "template": {
+      "type": "fractal",
+      "generator": "cluster",
+      "sparse": false
+    },
+    "block": "gold_ore",
+    "material": "stone",
+    "clusterSize": 16,
+    "numClusters": 12,
+    "chunkChance": 960,
+    "minHeight": 10,
+    "veinHeight": 8,
+    "veinDiameter": 12,
+    "verticalDensity": 32,
+    "horizontalDensity": 24,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [ -1, 1 ]
+  }
+}

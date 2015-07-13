@@ -5,7 +5,7 @@
     "material": "stone",
     "clusterSize": 32,
     "numClusters": 1,
-    "chunkChance": 8,
+    "chunkChance": 10,
     "minHeight": 24,
     "maxHeight": 96,
     "retrogen": "true",
@@ -20,7 +20,7 @@
     "material": "stone",
     "clusterSize": 28,
     "numClusters": 1,
-    "chunkChance": 10,
+    "chunkChance": 12,
     "minHeight": 16,
     "maxHeight": 56,
     "retrogen": "true",
@@ -35,7 +35,7 @@
     "material": "stone",
     "clusterSize": 22,
     "numClusters": 1,
-    "chunkChance": 20,
+    "chunkChance": 24,
     "minHeight": 6,
     "maxHeight": 36,
     "retrogen": "true",
@@ -62,13 +62,13 @@
   "diamond_cluster": {
     "template": "normal",
     "block": [
-      { "name": "diamond_ore", "weight": 92 },
-      { "name": "emerald_ore", "weight": 8 }
+      { "name": "diamond_ore", "weight": 9 },
+      { "name": "emerald_ore", "weight": 1 }
     ],
     "material": "stone",
     "clusterSize": 16,
     "numClusters": 1,
-    "chunkChance": 26,
+    "chunkChance": 22,
     "meanHeight": 12,
     "maxVariance": 6,
     "retrogen": "true",
