@@ -1,4 +1,5 @@
 var planks = <ore:plankWood>;
+var stick  = <ore:stickWood>;
 var stone  = <ore:stone>;
 var stoneSlab = <minecraft:stone_slab>;
 
@@ -31,6 +32,13 @@ recipes.addShaped(lever,
     [[ <ore:stickWood> ],
      [           stone ],
      [        redstone ]]);
+
+var tripwireHook = <minecraft:tripwire_hook>;
+recipes.remove(tripwireHook);
+recipes.addShaped(tripwireHook * 2,
+    [[     iron ],
+     [    stick ],
+     [ redstone ] ]);
 
 var stonePressurePlate = <minecraft:stone_pressure_plate>;
 recipes.remove(stonePressurePlate);
