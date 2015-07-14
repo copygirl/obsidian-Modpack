@@ -65,7 +65,7 @@
       "server": true, "client": true, "optional": false
     }, {
       "name": "Inventory Tweaks", "version": "1.59",
-      "url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2232022/download",
+      "url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2210792/download",
       "server": false, "client": true, "optional": true
     }, {
       "name": "MineTweaker 3", "version": "3.0.9C",
