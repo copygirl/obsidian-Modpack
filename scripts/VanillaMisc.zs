@@ -19,6 +19,9 @@ recipes.addShaped(<minecraft:stick> * 4, [[ wood ], [ wood ]]);
 recipes.remove(<minecraft:flint_and_steel>);
 mods.betterstorage.CraftingStation.addShapeless(<minecraft:flint_and_steel>,
     [ iron, <minecraft:flint> ], 1);
+// Single use flint and steel
+recipes.addShapeless(<minecraft:flint_and_steel>.withDamage(9001).withTag({display:{Lore:["§7Single-use only"]}}),
+    [ <ore:nuggetIron>, <minecraft:flint> ]);
 
 recipes.remove(<minecraft:shears>);
 mods.betterstorage.CraftingStation.addShapedMirrored(<minecraft:shears>,
