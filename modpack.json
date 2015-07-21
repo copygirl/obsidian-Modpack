@@ -36,8 +36,8 @@
       "url": "http://minecraft.curseforge.com/mc-mods/222213-codechickencore/files/2237939/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "CoFH Core", "version": "3.0.3B4",
-      "url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2246696/download",
+      "name": "CoFH Core", "version": "3.0.3-303",
+      "url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2246919/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "copycore", "version": "1.6.1.9",
