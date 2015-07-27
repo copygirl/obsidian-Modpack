@@ -1,3 +1,15 @@
+Version 2.1.0
+- Updated mods:
+  - BiblioCraft (1.10.4 -> 1.10.5)
+  - CoFH Core (3.0.3B4 -> 3.0.3-303)
+- Config changes:
+  - Disable BiblioCraft update checking
+  - Enable redstone support for Flaxbeard's valve pipes
+  - Reduce Thaumcraft research notification delay
+- Recipe changes:
+  - Added single-use flint and steel recipe (flint + iron nugget)
+  - Changed tripwire hook recipe (plank replaced with redstone)
+
 Version 2.0.0
 - Updated to work with Pack[OP]dater
 - Added mods:
