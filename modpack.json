@@ -100,8 +100,8 @@
       "url": "http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons/files/2230658/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "SmartMoving", "version": "15.5",
-      "url": "http://minecraft.curseforge.com/mc-mods/229858-smart-moving/files/2236485/download",
+      "name": "Smart Moving", "version": "15.6",
+      "url": "http://minecraft.curseforge.com/mc-mods/229858-smart-moving/files/2248946/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "Smart Render", "version": "2.1",

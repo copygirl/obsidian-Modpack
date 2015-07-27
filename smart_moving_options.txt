@@ -1034,7 +1034,7 @@ move.config.adventure.keys.default:m
 
 
 # The display names of the option configuration keys
-move.config.key.name:e:Easy;h:Hard;m:Medium
+move.config.key.name:e:Easy;m:Medium;h:Hard
 
 
 
@@ -1050,16 +1050,16 @@ move.server.config:true
 
 
 # The option configuration to start the player's next minecraft survival game with (can also be modified via in-game option configuration toggling)
-move.server.config.survival.user.keys:copygirl,m,koppeh,m
+move.server.config.survival.user.keys:
 
 # The option configuration to start the player's next minecraft creative game with (can also be modified via in-game option configuration toggling)
-move.server.config.creative.user.keys:copygirl,c,koppeh,c
+move.server.config.creative.user.keys:
 
 # The option configuration to start the player's next minecraft adventure game with (can also be modified via in-game option configuration toggling)
 move.server.config.adventure.user.keys:
 
 # The user specific exponents for in-game speed manipulation
-move.server.speed.user.exponents:copygirl,0
+move.server.speed.user.exponents:
 
 
 # Whether all players on this server should be forced to use the same global configuration (Relevant only if "move.server.config" is true)

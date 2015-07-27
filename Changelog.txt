@@ -13,6 +13,7 @@ Version 2.1.0
   - CoFH Core (3.0.3B4 -> 3.0.3-303)
   - Inventory Tweaks (1.59 -> 1.59-asie-lts)
     See https://github.com/asiekierka/inventory-tweaks/releases/tag/1.59-asie-lts
+  - Smart Moving (15.5 -> 15.6)
 - Config changes:
   - Disable BiblioCraft update checking
   - Enable redstone support for Flaxbeard's valve pipes
