@@ -20,9 +20,13 @@ Version 2.1.0
   - Reduce Thaumcraft research notification delay
 - Recipe changes:
   - Added single-use flint and steel recipe (flint + iron nugget)
-  - Changed default planks and sticks recipe to only yield 2 each
-  - Changed axe + logs / planks to yield the previously default amount
-  - Changed tripwire hook recipe (plank replaced with redstone)
+  - Default planks and sticks recipe to only yield 2 each
+  - Axe + logs / planks recipe yield the previously default amount
+  - Tripwire hook recipe uses redstone instead of plank
+  - New brewing stand recipe:
+      B / B             B = Blaze Barrel
+        /    + 20 lvl   / = Blaze Rod
+      - - -             - = Stone Slab
 
 Version 2.0.0
 - Updated to work with Pack[OP]dater

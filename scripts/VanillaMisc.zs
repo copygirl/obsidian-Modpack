@@ -47,3 +47,12 @@ mods.betterstorage.CraftingStation.addShaped(<minecraft:anvil>,
     [[ ironBlock, ironBlock, ironBlock ],
      [      null, ironPlate,      null ],
      [ ironPlate, ironPlate, ironPlate ]], 15);
+
+var blazeRod  = <minecraft:blaze_rod>;
+var barrel    = <Steamcraft:enhancementAblaze>;
+var stoneSlab = <minecraft:stone_slab:0>;
+recipes.remove(<minecraft:brewing_stand>);
+mods.betterstorage.CraftingStation.addShaped(<minecraft:brewing_stand>,
+    [[    barrel,  blazeRod,    barrel ],
+     [      null,  blazeRod,      null ],
+     [ stoneSlab, stoneSlab, stoneSlab ]], 20);
