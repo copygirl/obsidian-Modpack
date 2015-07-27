@@ -9,10 +9,6 @@ var obsidian = <minecraft:obsidian>;
 var ironBlock = <ore:blockIron>;
 var ironPlate = <Steamcraft:steamcraftPlate:2>;
 
-// Readd sticks (thanks Gany's Surface)
-// TODO: Remove when fixed
-recipes.addShaped(<minecraft:stick> * 4, [[ wood ], [ wood ]]);
-
 
 // Misc tools
 
