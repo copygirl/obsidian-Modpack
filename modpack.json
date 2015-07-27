@@ -28,8 +28,8 @@
       "url": "http://minecraft.curseforge.com/mc-mods/228362-bibliocraft-bibliowoods-biomes-oplenty-edition/files/2229577/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "Biomes O' Plenty", "version": "2.1.0.1338",
-      "url": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/1.7.10-2.1.0.1338/BiomesOPlenty-1.7.10-2.1.0.1338-universal.jar",
+      "name": "Biomes O' Plenty", "version": "2.1.0.1364",
+      "url": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/1.7.10-2.1.0.1364/BiomesOPlenty-1.7.10-2.1.0.1364-universal.jar",
       "server": true, "client": true, "optional": false
     }, {
       "name": "CodeChickenCore", "version": "1.0.6.43",
