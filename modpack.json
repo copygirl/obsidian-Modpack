@@ -20,8 +20,8 @@
       "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "BiblioCraft", "version": "1.10.4",
-      "url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2235545/download",
+      "name": "BiblioCraft", "version": "1.10.5",
+      "url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2249168/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "BiblioWoods (Biomes O' Plenty)", "version": "1.9",
