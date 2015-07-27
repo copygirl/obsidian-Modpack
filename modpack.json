@@ -64,8 +64,8 @@
       "url": "http://minecraft.curseforge.com/mc-mods/72210-hopper-ducts/files/2211247/download",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "Inventory Tweaks", "version": "1.59",
-      "url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2210792/download",
+      "name": "Inventory Tweaks", "version": "1.59-asie-lts",
+      "url": "https://github.com/asiekierka/inventory-tweaks/releases/download/1.59-asie-lts/InventoryTweaks-1.59-asie-lts.jar",
       "server": false, "client": true, "optional": true
     }, {
       "name": "MineTweaker 3", "version": "3.0.9C",
