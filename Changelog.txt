@@ -1,4 +1,12 @@
 Version 2.1.0
+- Added mods:
+  - Special AI (1.1.1)
+    - Makes passive mobs neutral and call for help when attacked
+    - Passive mobs will eat breeding items from the ground
+    - Chance for some mobs to ride other mobs
+    - Chance for some mobs to gain special AI
+    - Passive griefing feature is disabled
+    - Villagers do things now
 - Updated mods:
   - BiblioCraft (1.10.4 -> 1.10.5)
   - Biomes O' Plenty (2.1.0.1338 -> 2.1.0.1364)

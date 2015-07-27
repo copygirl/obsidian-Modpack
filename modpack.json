@@ -108,6 +108,10 @@
       "url": "http://minecraft.curseforge.com/mc-mods/229857-smart-render/files/2235382/download",
       "server": false, "client": true, "optional": false
     }, {
+      "name": "Special AI", "version": "1.1.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/224301-special-ai/files/2226200/download",
+      "server": true, "client": true, "optional": false
+    }, {
       "name": "Special Mobs", "version": "3.1.1",
       "url": "http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2233901/download",
       "server": true, "client": true, "optional": false
