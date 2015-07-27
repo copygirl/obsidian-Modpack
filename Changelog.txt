@@ -19,6 +19,8 @@ Version 2.1.0
   - Reduce Thaumcraft research notification delay
 - Recipe changes:
   - Added single-use flint and steel recipe (flint + iron nugget)
+  - Changed default planks and sticks recipe to only yield 2 each
+  - Changed axe + logs / planks to yield the previously default amount
   - Changed tripwire hook recipe (plank replaced with redstone)
 
 Version 2.0.0
