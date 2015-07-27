@@ -28,7 +28,7 @@ Biomes O' Plenty (BOP)  http://minecraft.curseforge.com/mc-mods/220318-biomes-o-
 
  Professor Flaxbeard's  http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power
  Wonderous Steam Power  http://minecraftforum.net/forums/x/2246930
-   Mod (Flaxbeard's)    https://github.com/Flaxbeard/Flaxbeards-Steam-Power
+       Mod (FSP)        https://github.com/Flaxbeard/Flaxbeards-Steam-Power
 
     Gany's Surface      http://minecraft.curseforge.com/mc-mods/222303-ganys-surface
                         http://minecraftforum.net/forums/x/1291094
