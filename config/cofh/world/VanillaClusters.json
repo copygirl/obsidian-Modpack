@@ -62,13 +62,13 @@
   "diamond_cluster": {
     "template": "normal",
     "block": [
-      { "name": "diamond_ore", "weight": 9 },
+      { "name": "diamond_ore", "weight": 6 },
       { "name": "emerald_ore", "weight": 1 }
     ],
     "material": "stone",
-    "clusterSize": 16,
+    "clusterSize": 8,
     "numClusters": 1,
-    "chunkChance": 22,
+    "chunkChance": 28,
     "meanHeight": 12,
     "maxVariance": 6,
     "retrogen": "true",
